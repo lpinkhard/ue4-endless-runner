@@ -29,8 +29,8 @@ Features:
 Input: Gamepad, Keyboard, Touch
 Network Replicated: No
 Supported Development Platforms:
-Windows: Yes
-Mac: Yes
+ - Windows: Yes
+ - Mac: Yes
 
 Important/Additional Notes:
  - Ragdoll death requires a physics asset for the character
