@@ -24,15 +24,6 @@ Features:
  - Basic audio support using sound cues or Wwise events
  - Basic HUD for score and distance
  - Clean code with detailed documentation
- - Number of Blueprints: 21
- - Number of C++ Classes: 8
-
-Input: Gamepad, Keyboard, Touch
-Network Replicated: No
-
-Supported Development Platforms:
- - Windows: Yes
- - Mac: Yes
 
 Important/Additional Notes:
  - Ragdoll death requires a physics asset for the character
