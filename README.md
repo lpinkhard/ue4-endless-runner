@@ -26,8 +26,10 @@ Features:
  - Clean code with detailed documentation
  - Number of Blueprints: 21
  - Number of C++ Classes: 8
+
 Input: Gamepad, Keyboard, Touch
 Network Replicated: No
+
 Supported Development Platforms:
  - Windows: Yes
  - Mac: Yes
